@@ -10,7 +10,7 @@ Try out the Web Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9
 ## Download
 Download the .zip file or use the command line
 ```bash
-
+git clone https://github.com/TonyAssi/faceswap.git
 ```
 
 ## Installation
